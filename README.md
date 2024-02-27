@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Harshavardhana
-![I am GitHub Readme Generator's creator](https://github.com/Harshavrdhana/Harshavrdhana/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/Harshavrdhana/Harshavrdhana/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner%20(1).png)
 
 # 💫 About Me:
 👋 Hello! I'm Harshavardhana U N, a passionate Front End Engineer with a Bachelor of Engineering degree. My journey into programming has equipped me with expertise in Java, React.js, JavaScript, and more. I love crafting user-friendly interfaces and thrive on challenges. Let's connect and create something amazing together! 🚀<br>
