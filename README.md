@@ -1,13 +1,5 @@
-### Hi there 👋, my name is Harshavardh
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is Harshavardhana
 ![I am GitHub Readme Generator's creator](https://github.com/Harshavrdhana/Harshavrdhana/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
 
 # 💫 About Me:
 👋 Hello! I'm Harshavardhana U N, a passionate Front End Engineer with a Bachelor of Engineering degree. My journey into programming has equipped me with expertise in Java, React.js, JavaScript, and more. I love crafting user-friendly interfaces and thrive on challenges. Let's connect and create something amazing together! 🚀<br>
